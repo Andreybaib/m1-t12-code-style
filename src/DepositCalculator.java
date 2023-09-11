@@ -37,6 +37,6 @@ public class DepositCalculator {
     }
 
     public static void main(String[] args){
-        new calculateDeposit().printMenu();
+        new DepositCalculator().printMenu();
     }
 }
